@@ -1,0 +1,36 @@
+{
+	"songs": [
+		["Lurking", "face", [165, 0, 77]],
+		["Interview", "face", [165, 0, 77]],
+		["Rubber", "face", [165, 0, 77]],
+		["Silvern", "face", [165, 0, 77]],
+		["Performance", "face", [165, 0, 77]],
+		["Bite", "face", [165, 0, 77]],
+		["Trapped", "face", [165, 0, 77]],
+		["Go Fish", "face", [165, 0, 77]],
+		["Watchful", "face", [165, 0, 77]],
+		["Restless", "face", [165, 0, 77]],
+		["Beatbox", "face", [165, 0, 77]],
+		["Showtime", "face", [165, 0, 77]],
+		["Man", "face", [165, 0, 77]],
+		["Faznews", "face", [165, 0, 77]],
+		["Morning Bell", "face", [165, 0, 77]],
+		["Miller", "face", [165, 0, 77]],
+		["Followed", "face", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

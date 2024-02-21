@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phone_dued.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phone guy down0000" x="0" y="0" width="396" height="959" frameX="0" frameY="-13" frameWidth="396" frameHeight="972"/>
+	<SubTexture name="phone guy down0001" x="0" y="0" width="396" height="959" frameX="0" frameY="-13" frameWidth="396" frameHeight="972"/>
+	<SubTexture name="phone guy down0002" x="396" y="0" width="390" height="972" frameX="-3" frameY="0" frameWidth="396" frameHeight="972"/>
+	<SubTexture name="phone guy down0003" x="396" y="0" width="390" height="972" frameX="-3" frameY="0" frameWidth="396" frameHeight="972"/>
+	<SubTexture name="phone guy idle0000" x="786" y="0" width="379" height="969" frameX="-1" frameY="-14" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0001" x="786" y="0" width="379" height="969" frameX="-1" frameY="-14" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0002" x="1165" y="0" width="381" height="963" frameX="0" frameY="-20" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0003" x="1165" y="0" width="381" height="963" frameX="0" frameY="-20" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0004" x="1546" y="0" width="375" height="979" frameX="-3" frameY="-4" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0005" x="1546" y="0" width="375" height="979" frameX="-3" frameY="-4" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0006" x="1921" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0007" x="1921" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0008" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0009" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0010" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0011" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0012" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0013" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0014" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0015" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0016" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0017" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0018" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy idle0019" x="2296" y="0" width="375" height="983" frameX="-3" frameY="0" frameWidth="381" frameHeight="983"/>
+	<SubTexture name="phone guy left0000" x="2671" y="0" width="372" height="985" frameX="0" frameY="-11" frameWidth="407" frameHeight="996"/>
+	<SubTexture name="phone guy left0001" x="2671" y="0" width="372" height="985" frameX="0" frameY="-11" frameWidth="407" frameHeight="996"/>
+	<SubTexture name="phone guy left0002" x="3043" y="0" width="373" height="991" frameX="-34" frameY="0" frameWidth="407" frameHeight="996"/>
+	<SubTexture name="phone guy left0003" x="3043" y="0" width="373" height="991" frameX="-34" frameY="0" frameWidth="407" frameHeight="996"/>
+	<SubTexture name="phone guy light0000" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0001" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0002" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0003" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0004" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0005" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0006" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0007" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0008" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light0009" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0000" x="0" y="991" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0001" x="0" y="991" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0002" x="0" y="991" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0003" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0004" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0005" x="0" y="991" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0006" x="0" y="991" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0007" x="0" y="991" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0008" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy light loop0009" x="3416" y="0" width="374" height="983"/>
+	<SubTexture name="phone guy right0000" x="374" y="991" width="448" height="988" frameX="-28" frameY="0" frameWidth="476" frameHeight="989"/>
+	<SubTexture name="phone guy right0001" x="374" y="991" width="448" height="988" frameX="-28" frameY="0" frameWidth="476" frameHeight="989"/>
+	<SubTexture name="phone guy right0002" x="822" y="991" width="453" height="986" frameX="0" frameY="-3" frameWidth="476" frameHeight="989"/>
+	<SubTexture name="phone guy right0003" x="822" y="991" width="453" height="986" frameX="0" frameY="-3" frameWidth="476" frameHeight="989"/>
+	<SubTexture name="phone guy sketch0000" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0001" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0002" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0003" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0004" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0005" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0006" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0007" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0008" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0009" x="1275" y="991" width="503" height="1029" frameX="-11" frameY="-27" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0010" x="1778" y="991" width="452" height="1056" frameX="0" frameY="0" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0011" x="1778" y="991" width="452" height="1056" frameX="0" frameY="0" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0012" x="2230" y="991" width="455" height="1049" frameX="0" frameY="-7" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0013" x="2230" y="991" width="455" height="1049" frameX="0" frameY="-7" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0014" x="2685" y="991" width="472" height="1027" frameX="-30" frameY="-29" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0015" x="2685" y="991" width="472" height="1027" frameX="-30" frameY="-29" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0016" x="3157" y="991" width="474" height="993" frameX="-47" frameY="-63" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0017" x="3157" y="991" width="474" height="993" frameX="-47" frameY="-63" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0018" x="0" y="2047" width="774" height="985" frameX="-35" frameY="-71" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0019" x="0" y="2047" width="774" height="985" frameX="-35" frameY="-71" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0020" x="774" y="2047" width="1021" height="989" frameX="-27" frameY="-67" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0021" x="774" y="2047" width="1021" height="989" frameX="-27" frameY="-67" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0022" x="1795" y="2047" width="610" height="989" frameX="-27" frameY="-67" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0023" x="1795" y="2047" width="610" height="989" frameX="-27" frameY="-67" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy sketch0024" x="1795" y="2047" width="610" height="989" frameX="-27" frameY="-67" frameWidth="1048" frameHeight="1056"/>
+	<SubTexture name="phone guy up0000" x="2405" y="2047" width="358" height="1007" frameX="-4" frameY="0" frameWidth="364" frameHeight="1007"/>
+	<SubTexture name="phone guy up0001" x="2405" y="2047" width="358" height="1007" frameX="-4" frameY="0" frameWidth="364" frameHeight="1007"/>
+	<SubTexture name="phone guy up0002" x="2763" y="2047" width="364" height="998" frameX="0" frameY="-9" frameWidth="364" frameHeight="1007"/>
+	<SubTexture name="phone guy up0003" x="2763" y="2047" width="364" height="998" frameX="0" frameY="-9" frameWidth="364" frameHeight="1007"/>
+</TextureAtlas>

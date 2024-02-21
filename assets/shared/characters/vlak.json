@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blak idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "blak left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "blak down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				87
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "blak up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blak right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Midnight/midnightman",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

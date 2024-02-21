@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				336,
+				383
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gren idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				372,
+				458
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gren up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				322
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gren right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				454,
+				368
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gren left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				408,
+				263
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gren down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gren_new",
+	"position": [
+		300,
+		630
+	],
+	"healthicon": "gren_new",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		232,
+		15
+	],
+	"camera_position": [
+		-250,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

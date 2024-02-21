@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dawpoop.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dawkdown0000" x="0" y="0" width="665" height="725"/>
+	<SubTexture name="dawkdown0001" x="0" y="0" width="665" height="725"/>
+	<SubTexture name="dawkdown0002" x="665" y="0" width="665" height="725"/>
+	<SubTexture name="dawkdown0003" x="665" y="0" width="665" height="725"/>
+	<SubTexture name="dawko crunkff0000" x="1330" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0001" x="1330" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0002" x="1799" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0003" x="1799" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0004" x="2268" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0005" x="2268" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0006" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0007" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0008" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0009" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0010" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0011" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0012" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0013" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0014" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0015" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0016" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0017" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0018" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0019" x="3206" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0020" x="3206" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0021" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0022" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0023" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0024" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0025" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0026" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0027" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0028" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0029" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0030" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0031" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0032" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0033" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0034" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0035" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0036" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0037" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0038" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0039" x="3675" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0040" x="4144" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0041" x="4144" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0042" x="4144" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0043" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0044" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0045" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0046" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0047" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0048" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0049" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0050" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0051" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0052" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0053" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0054" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0055" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0056" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0057" x="4613" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0058" x="5082" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0059" x="5082" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0060" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0061" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0062" x="2268" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0063" x="2268" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0064" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0065" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0066" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0067" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0068" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0069" x="5082" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0070" x="5082" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0071" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0072" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0073" x="5082" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0074" x="5082" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0075" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0076" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0077" x="2268" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0078" x="2268" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0079" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko crunkff0080" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko idle0000" x="5551" y="0" width="665" height="899" frameX="0" frameY="-14" frameWidth="665" frameHeight="913"/>
+	<SubTexture name="dawko idle0001" x="5551" y="0" width="665" height="899" frameX="0" frameY="-14" frameWidth="665" frameHeight="913"/>
+	<SubTexture name="dawko idle0002" x="6216" y="0" width="665" height="903" frameX="0" frameY="-10" frameWidth="665" frameHeight="913"/>
+	<SubTexture name="dawko idle0003" x="6216" y="0" width="665" height="903" frameX="0" frameY="-10" frameWidth="665" frameHeight="913"/>
+	<SubTexture name="dawko idle0004" x="6881" y="0" width="665" height="912" frameX="0" frameY="-1" frameWidth="665" frameHeight="913"/>
+	<SubTexture name="dawko idle0005" x="6881" y="0" width="665" height="912" frameX="0" frameY="-1" frameWidth="665" frameHeight="913"/>
+	<SubTexture name="dawko idle0006" x="0" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0007" x="0" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0008" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0009" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0010" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0011" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0012" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0013" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0014" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0015" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0016" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0017" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0018" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko idle0019" x="665" y="912" width="665" height="913"/>
+	<SubTexture name="dawko left0000" x="1330" y="912" width="726" height="909" frameX="0" frameY="-16" frameWidth="726" frameHeight="925"/>
+	<SubTexture name="dawko left0001" x="1330" y="912" width="726" height="909" frameX="0" frameY="-16" frameWidth="726" frameHeight="925"/>
+	<SubTexture name="dawko left0002" x="2056" y="912" width="665" height="925" frameX="-61" frameY="0" frameWidth="726" frameHeight="925"/>
+	<SubTexture name="dawko left0003" x="2056" y="912" width="665" height="925" frameX="-61" frameY="0" frameWidth="726" frameHeight="925"/>
+	<SubTexture name="dawko lights off loop0000" x="2268" y="0" width="469" height="830"/>
+	<SubTexture name="dawko lights off loop0001" x="2268" y="0" width="469" height="830"/>
+	<SubTexture name="dawko lights off loop0002" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko lights off loop0003" x="2737" y="0" width="469" height="830"/>
+	<SubTexture name="dawko lit on0000" x="2721" y="912" width="665" height="935"/>
+	<SubTexture name="dawko lit on0001" x="2721" y="912" width="665" height="935"/>
+	<SubTexture name="dawko lit on0002" x="3386" y="912" width="665" height="919" frameX="0" frameY="-16" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0003" x="3386" y="912" width="665" height="919" frameX="0" frameY="-16" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0004" x="3386" y="912" width="665" height="919" frameX="0" frameY="-16" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0005" x="3386" y="912" width="665" height="919" frameX="0" frameY="-16" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0006" x="3386" y="912" width="665" height="919" frameX="0" frameY="-16" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0007" x="3386" y="912" width="665" height="919" frameX="0" frameY="-16" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0008" x="4051" y="912" width="665" height="907" frameX="0" frameY="-28" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0009" x="4051" y="912" width="665" height="907" frameX="0" frameY="-28" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0010" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0011" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0012" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0013" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0014" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0015" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0016" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0017" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0018" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0019" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0020" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0021" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0022" x="4716" y="912" width="665" height="914" frameX="0" frameY="-21" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0023" x="5381" y="912" width="665" height="909" frameX="0" frameY="-26" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko lit on0024" x="5381" y="912" width="665" height="909" frameX="0" frameY="-26" frameWidth="665" frameHeight="935"/>
+	<SubTexture name="dawko right0000" x="6046" y="912" width="877" height="916"/>
+	<SubTexture name="dawko right0001" x="6046" y="912" width="877" height="916"/>
+	<SubTexture name="dawko right0002" x="6923" y="912" width="779" height="902" frameX="0" frameY="-14" frameWidth="877" frameHeight="916"/>
+	<SubTexture name="dawko right0003" x="6923" y="912" width="779" height="902" frameX="0" frameY="-14" frameWidth="877" frameHeight="916"/>
+	<SubTexture name="dawko right0004" x="6923" y="912" width="779" height="902" frameX="0" frameY="-14" frameWidth="877" frameHeight="916"/>
+	<SubTexture name="dawko right0005" x="6923" y="912" width="779" height="902" frameX="0" frameY="-14" frameWidth="877" frameHeight="916"/>
+	<SubTexture name="gayUP0000" x="0" y="1847" width="665" height="1013"/>
+	<SubTexture name="gayUP0001" x="0" y="1847" width="665" height="1013"/>
+	<SubTexture name="gayUP0002" x="665" y="1847" width="665" height="971" frameX="0" frameY="-42" frameWidth="665" frameHeight="1013"/>
+	<SubTexture name="gayUP0003" x="665" y="1847" width="665" height="971" frameX="0" frameY="-42" frameWidth="665" frameHeight="1013"/>
+	<SubTexture name="gayUP0004" x="665" y="1847" width="665" height="971" frameX="0" frameY="-42" frameWidth="665" frameHeight="1013"/>
+	<SubTexture name="gayUP0005" x="665" y="1847" width="665" height="971" frameX="0" frameY="-42" frameWidth="665" frameHeight="1013"/>
+</TextureAtlas>
