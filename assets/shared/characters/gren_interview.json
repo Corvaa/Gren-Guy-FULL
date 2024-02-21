@@ -5,10 +5,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "pc idle"
 		},
 		{
@@ -16,10 +16,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "pc left"
 		},
 		{
@@ -27,10 +27,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "pc down"
 		},
 		{
@@ -38,10 +38,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "pc up"
 		},
 		{
@@ -49,10 +49,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "pc right"
 		},
 		{
@@ -60,10 +60,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "miss left"
 		},
 		{
@@ -71,10 +71,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
+			"indices": [],
 			"name": "down uh whatever"
 		},
 		{
@@ -82,10 +82,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
+			"indices": [],
 			"name": "up my bum"
 		},
 		{
@@ -93,10 +93,10 @@
 				-5,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "FUCK right"
 		}
 	],
@@ -115,8 +115,8 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		300,
+		-50
 	],
 	"sing_duration": 4,
 	"scale": 1,

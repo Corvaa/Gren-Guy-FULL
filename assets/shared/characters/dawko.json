@@ -1,96 +1,96 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
+				-1,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "dawko idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "dawko idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				61,
 				12
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "dawko left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dawko left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				-188
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "dawkdown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dawkdown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				100
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "gayUP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "gayUP"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				3
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "dawko right",
-			"indices": []
+			"indices": [],
+			"name": "dawko right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-110,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "crunk",
-			"fps": 24,
-			"name": "dawko crunkff",
-			"indices": []
+			"indices": [],
+			"name": "dawko crunkff"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-110,
 				0
 			],
-			"anim": "boo",
+			"loop": false,
 			"fps": 24,
-			"name": "dawko lights off",
-			"indices": []
+			"anim": "boo",
+			"indices": [],
+			"name": "dawko lights off"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				22
 			],
-			"anim": "unboo",
+			"loop": false,
 			"fps": 24,
-			"name": "dawko lit on",
-			"indices": []
+			"anim": "unboo",
+			"indices": [],
+			"name": "dawko lit on"
 		}
 	],
 	"vocals_file": "",
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/Interview/dawpoop",
 	"position": [
 		0,
@@ -105,7 +105,7 @@
 	],
 	"camera_position": [
 		220,
-		130
+		-30
 	],
 	"sing_duration": 6.1,
 	"scale": 1,
