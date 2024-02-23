@@ -1694,6 +1694,42 @@ class PlayState extends MusicBeatState
 				timeTxt.text = FlxStringUtil.formatTime(secondsTotal, false);
 		}
 
+		if (generatedMusic && SONG.notes[curSection] != null) //CAM MOVEMENT CODE YAY
+			{
+				var dadPos:FlxPoint = new FlxPoint(dad.getMidpoint().x + 150 + dad.cameraPosition[0] + opponentCameraOffset[0], 
+				dad.getMidpoint().y - 100 + dad.cameraPosition[1] + opponentCameraOffset[1]);
+
+				var bfPos:FlxPoint = new FlxPoint(boyfriend.getMidpoint().x - 100 - boyfriend.cameraPosition[0] - boyfriendCameraOffset[0], 
+				boyfriend.getMidpoint().y - 100 + boyfriend.cameraPosition[1] + boyfriendCameraOffset[1]);
+
+				var ratio:Float = SONG.notes[curSection].mustHitSection ? 1 : 0;
+				var penis:FlxPoint = FlxPoint.get(FlxMath.lerp(dadPos.x, bfPos.x, ratio), FlxMath.lerp(dadPos.y, bfPos.y, ratio));
+
+				var char = ratio >= 0.5 ? boyfriend : dad;
+
+				if (char.animation.curAnim != null) {
+					var a:Int = 10;
+					if (char.animation.curAnim.curFrame < 7) a += 10;
+					switch(char.animation.curAnim.name) {
+						case "singLEFT", "singLEFT-alt":
+							penis.x -= a;
+						case "singRIGHT", "singRIGHT-alt":
+							penis.x += a;
+						case "singDOWN", "singDOWN-alt":
+							penis.y += a;
+						case "singUP", "singUP-alt":
+							penis.y -= a;
+					}
+
+					camFollow.setPosition(
+						penis.x, penis.y
+					);
+				}
+
+				for(e in [FlxPoint.get(FlxMath.lerp(dadPos.x, bfPos.x, ratio), FlxMath.lerp(dadPos.y, bfPos.y, ratio)), bfPos, dadPos])
+					e.put();
+			}
+
 		if (camZooming)
 		{
 			FlxG.camera.zoom = FlxMath.lerp(defaultCamZoom, FlxG.camera.zoom, Math.exp(-elapsed * 3.125 * camZoomingDecay * playbackRate));
