@@ -383,6 +383,7 @@ class PlayState extends MusicBeatState
 		{
 			case 'stage': new states.stages.StageWeek1(); //Week 1
 			case 'dawko': new states.stages.Dawko();
+			case 'gren': new states.stages.Gren();
 		}
 
 		if(isPixelStage) {
@@ -1225,6 +1226,7 @@ class PlayState extends MusicBeatState
 
 		// Song duration in a float, useful for the time left feature
 		songLength = FlxG.sound.music.length;
+		barSongLength = songLength;
 		FlxTween.tween(timeBar, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
 		FlxTween.tween(timeTxt, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
 
@@ -1232,8 +1234,9 @@ class PlayState extends MusicBeatState
 		// Updating Discord Rich Presence (with Time Left)
 		if(autoUpdateRPC) DiscordClient.changePresence(detailsText, SONG.song + " (" + storyDifficultyText + ")", iconP2.getCharacter(), true, songLength);
 		#end
-		setOnScripts('songLength', songLength);
+		setOnScripts('barSongLength', barSongLength);
 		callOnScripts('onSongStart');
+		trace(barSongLength);
 	}
 
 	var debugNum:Int = 0;
@@ -1679,9 +1682,9 @@ class PlayState extends MusicBeatState
 		else if (!paused && updateTime)
 		{
 			var curTime:Float = Math.max(0, Conductor.songPosition - ClientPrefs.data.noteOffset);
-			songPercent = (curTime / songLength);
+			songPercent = (curTime / barSongLength);
 
-			var songCalc:Float = (songLength - curTime);
+			var songCalc:Float = (barSongLength - curTime);
 			if(ClientPrefs.data.timeBarType == 'Time Elapsed') songCalc = curTime;
 
 			var secondsTotal:Int = Math.floor(songCalc / 1000);
