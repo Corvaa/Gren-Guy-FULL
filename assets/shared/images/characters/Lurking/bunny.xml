@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bunny.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down bunny0000" x="10" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0001" x="10" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0002" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0003" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0004" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0005" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0006" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0007" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0008" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0009" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0010" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0011" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0012" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="down bunny0013" x="1044" y="10" width="1024" height="1024"/>
+	<SubTexture name="idle bunny0000" x="2078" y="10" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0001" x="3112" y="10" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0002" x="4146" y="10" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0003" x="5180" y="10" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0004" x="6214" y="10" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0005" x="10" y="1044" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0006" x="1044" y="1044" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0007" x="2078" y="1044" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0008" x="3112" y="1044" width="1024" height="1024" frameX="-5" frameY="-4" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="idle bunny0009" x="2078" y="10" width="1024" height="1024" frameX="0" frameY="0" frameWidth="1029" frameHeight="1028"/>
+	<SubTexture name="left bunny0000" x="4146" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0001" x="4146" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0002" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0003" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0004" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0005" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0006" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0007" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0008" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0009" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0010" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0011" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0012" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="left bunny0013" x="5180" y="1044" width="1024" height="1024"/>
+	<SubTexture name="right bunny0000" x="6214" y="1044" width="1024" height="1024"/>
+	<SubTexture name="right bunny0001" x="6214" y="1044" width="1024" height="1024"/>
+	<SubTexture name="right bunny0002" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0003" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0004" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0005" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0006" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0007" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0008" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0009" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0010" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0011" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0012" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="right bunny0013" x="10" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0000" x="1044" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0001" x="1044" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0002" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0003" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0004" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0005" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0006" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0007" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0008" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0009" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0010" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0011" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0012" x="2078" y="2078" width="1024" height="1024"/>
+	<SubTexture name="up bunny0013" x="2078" y="2078" width="1024" height="1024"/>
+</TextureAtlas>

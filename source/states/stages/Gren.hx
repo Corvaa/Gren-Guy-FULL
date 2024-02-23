@@ -21,7 +21,7 @@ class Gren extends BaseStage
 
 	function onSongStart()
 	{
-		PlayState.instance.barSongLength = 71*1000;
+		PlayState.instance.barSongLength = 70*1000;
 	}
 
 	function onEvent(eventName, value1, value2){

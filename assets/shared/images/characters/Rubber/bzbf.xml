@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bzbf.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bzbf arriba 0000" x="4590" y="1711" width="343" height="437" frameX="-9" frameY="0" frameWidth="352" frameHeight="437"/>
+	<SubTexture name="bzbf arriba 0001" x="0" y="0" width="365" height="427" frameX="0" frameY="-8" frameWidth="365" frameHeight="437"/>
+	<SubTexture name="bzbf arriba 0002" x="0" y="0" width="365" height="427" frameX="0" frameY="-8" frameWidth="365" frameHeight="437"/>
+	<SubTexture name="bzbf arriba 0003" x="365" y="0" width="355" height="434" frameX="-5" frameY="-1" frameWidth="365" frameHeight="437"/>
+	<SubTexture name="bzbf arriba 0004" x="365" y="0" width="355" height="434" frameX="-5" frameY="-1" frameWidth="365" frameHeight="437"/>
+	<SubTexture name="bzbf arriba 0005" x="365" y="0" width="355" height="434" frameX="-5" frameY="-1" frameWidth="365" frameHeight="437"/>
+	<SubTexture name="bzbf blow out0000" x="720" y="0" width="403" height="422" frameX="-25" frameY="-16" frameWidth="431" frameHeight="438"/>
+	<SubTexture name="bzbf blow out0001" x="1123" y="0" width="397" height="431" frameX="-25" frameY="-7" frameWidth="431" frameHeight="438"/>
+	<SubTexture name="bzbf blow out0002" x="1520" y="0" width="415" height="420" frameX="-14" frameY="-18" frameWidth="431" frameHeight="438"/>
+	<SubTexture name="bzbf blow out0003" x="1935" y="0" width="407" height="431" frameX="-14" frameY="-7" frameWidth="431" frameHeight="438"/>
+	<SubTexture name="bzbf blow out0004" x="2342" y="0" width="418" height="438" frameX="0" frameY="0" frameWidth="431" frameHeight="438"/>
+	<SubTexture name="bzbf blow out0005" x="2760" y="0" width="431" height="419" frameX="0" frameY="-19" frameWidth="431" frameHeight="438"/>
+	<SubTexture name="bzbf down0000" x="3191" y="0" width="381" height="394" frameX="0" frameY="-5" frameWidth="381" frameHeight="399"/>
+	<SubTexture name="bzbf down0001" x="3191" y="0" width="381" height="394" frameX="0" frameY="-5" frameWidth="381" frameHeight="399"/>
+	<SubTexture name="bzbf down0002" x="3572" y="0" width="371" height="399" frameX="-3" frameY="0" frameWidth="381" frameHeight="399"/>
+	<SubTexture name="bzbf down0003" x="3572" y="0" width="371" height="399" frameX="-3" frameY="0" frameWidth="381" frameHeight="399"/>
+	<SubTexture name="bzbf drunkb0000" x="3943" y="0" width="378" height="398" frameX="-1" frameY="-24" frameWidth="379" frameHeight="422"/>
+	<SubTexture name="bzbf drunkb0001" x="4321" y="0" width="365" height="420" frameX="-3" frameY="0" frameWidth="379" frameHeight="422"/>
+	<SubTexture name="bzbf drunkb0002" x="4321" y="0" width="365" height="420" frameX="-3" frameY="0" frameWidth="379" frameHeight="422"/>
+	<SubTexture name="bzbf drunkb0003" x="4686" y="0" width="371" height="412" frameX="0" frameY="-8" frameWidth="379" frameHeight="422"/>
+	<SubTexture name="bzbf drunkb0004" x="4686" y="0" width="371" height="412" frameX="0" frameY="-8" frameWidth="379" frameHeight="422"/>
+	<SubTexture name="bzbf drunkb0005" x="4686" y="0" width="371" height="412" frameX="0" frameY="-8" frameWidth="379" frameHeight="422"/>
+	<SubTexture name="bzbf fuckdead0000" x="5057" y="0" width="350" height="431" frameX="0" frameY="0" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0001" x="5407" y="0" width="350" height="431" frameX="0" frameY="0" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0002" x="5757" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0003" x="6106" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0004" x="6455" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0005" x="6804" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0006" x="6804" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0007" x="6804" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0008" x="7153" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0009" x="7153" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0010" x="7502" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0011" x="7502" y="0" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0012" x="0" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0013" x="0" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0014" x="349" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0015" x="349" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0016" x="698" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0017" x="698" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0018" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0019" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0020" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0021" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0022" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0023" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0024" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0025" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0026" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0027" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0028" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0029" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0030" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0031" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0032" x="1047" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0033" x="1396" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0034" x="1745" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0035" x="2094" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0036" x="2443" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0037" x="2792" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0038" x="3141" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0039" x="3490" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0040" x="3839" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0041" x="4188" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0042" x="4537" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0043" x="4886" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0044" x="5235" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0045" x="5584" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0046" x="5933" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0047" x="6282" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0048" x="6631" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0049" x="6980" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0050" x="7329" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0051" x="7678" y="438" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0052" x="0" y="855" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0053" x="349" y="855" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0054" x="698" y="855" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0055" x="1047" y="855" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0056" x="1047" y="855" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf fuckdead0057" x="1047" y="855" width="349" height="417" frameX="-2" frameY="-10" frameWidth="351" frameHeight="431"/>
+	<SubTexture name="bzbf idle 0000" x="1396" y="855" width="363" height="404" frameX="0" frameY="-9" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0001" x="1396" y="855" width="363" height="404" frameX="0" frameY="-9" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0002" x="1759" y="855" width="362" height="407" frameX="-1" frameY="-7" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0003" x="1759" y="855" width="362" height="407" frameX="-1" frameY="-7" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0004" x="2121" y="855" width="355" height="413" frameX="-2" frameY="-2" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0005" x="2121" y="855" width="355" height="413" frameX="-2" frameY="-2" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0006" x="2476" y="855" width="350" height="415" frameX="-2" frameY="0" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0007" x="2476" y="855" width="350" height="415" frameX="-2" frameY="0" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0008" x="2826" y="855" width="349" height="415" frameX="-2" frameY="0" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0009" x="2826" y="855" width="349" height="415" frameX="-2" frameY="0" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0010" x="2826" y="855" width="349" height="415" frameX="-2" frameY="0" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0011" x="2826" y="855" width="349" height="415" frameX="-2" frameY="0" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0012" x="2826" y="855" width="349" height="415" frameX="-2" frameY="0" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf idle 0013" x="2826" y="855" width="349" height="415" frameX="-2" frameY="0" frameWidth="363" frameHeight="415"/>
+	<SubTexture name="bzbf left0000" x="3175" y="855" width="343" height="413" frameX="0" frameY="-2" frameWidth="345" frameHeight="415"/>
+	<SubTexture name="bzbf left0001" x="3175" y="855" width="343" height="413" frameX="0" frameY="-2" frameWidth="345" frameHeight="415"/>
+	<SubTexture name="bzbf left0002" x="3518" y="855" width="344" height="415" frameX="-1" frameY="0" frameWidth="345" frameHeight="415"/>
+	<SubTexture name="bzbf left0003" x="3518" y="855" width="344" height="415" frameX="-1" frameY="0" frameWidth="345" frameHeight="415"/>
+	<SubTexture name="bzbf loop0000" x="3862" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0001" x="4211" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0002" x="4211" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0003" x="4560" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0004" x="4909" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0005" x="5258" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0006" x="5607" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0007" x="5956" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0008" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0009" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0010" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0011" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0012" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0013" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0014" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0015" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0016" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0017" x="3862" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0018" x="4211" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0019" x="4211" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0020" x="4560" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0021" x="4909" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0022" x="5258" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0023" x="5607" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0024" x="6654" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0025" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0026" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0027" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0028" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0029" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0030" x="7003" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0031" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0032" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf loop0033" x="6305" y="855" width="349" height="417"/>
+	<SubTexture name="bzbf miss section r0000" x="7352" y="855" width="371" height="409" frameX="-4" frameY="-12" frameWidth="375" frameHeight="424"/>
+	<SubTexture name="bzbf miss section r0001" x="7723" y="855" width="365" height="423" frameX="-1" frameY="0" frameWidth="375" frameHeight="424"/>
+	<SubTexture name="bzbf miss section r0002" x="7723" y="855" width="365" height="423" frameX="-1" frameY="0" frameWidth="375" frameHeight="424"/>
+	<SubTexture name="bzbf miss section r0003" x="0" y="1278" width="373" height="423" frameX="0" frameY="-1" frameWidth="375" frameHeight="424"/>
+	<SubTexture name="bzbf miss section r0004" x="0" y="1278" width="373" height="423" frameX="0" frameY="-1" frameWidth="375" frameHeight="424"/>
+	<SubTexture name="bzbf miss section r0005" x="0" y="1278" width="373" height="423" frameX="0" frameY="-1" frameWidth="375" frameHeight="424"/>
+	<SubTexture name="bzbf missin l0000" x="373" y="1278" width="343" height="413" frameX="-3" frameY="-20" frameWidth="351" frameHeight="433"/>
+	<SubTexture name="bzbf missin l0001" x="716" y="1278" width="351" height="433"/>
+	<SubTexture name="bzbf missin l0002" x="716" y="1278" width="351" height="433"/>
+	<SubTexture name="bzbf missin l0003" x="1067" y="1278" width="351" height="433"/>
+	<SubTexture name="bzbf missin l0004" x="1067" y="1278" width="351" height="433"/>
+	<SubTexture name="bzbf missin l0005" x="1067" y="1278" width="351" height="433"/>
+	<SubTexture name="bzbf parry0000" x="1418" y="1278" width="404" height="426"/>
+	<SubTexture name="bzbf parry0001" x="1418" y="1278" width="404" height="426"/>
+	<SubTexture name="bzbf parry0002" x="1822" y="1278" width="349" height="426" frameX="-2" frameY="0" frameWidth="404" frameHeight="426"/>
+	<SubTexture name="bzbf parry0003" x="1822" y="1278" width="349" height="426" frameX="-2" frameY="0" frameWidth="404" frameHeight="426"/>
+	<SubTexture name="bzbf parry0004" x="2171" y="1278" width="354" height="426" frameX="-2" frameY="0" frameWidth="404" frameHeight="426"/>
+	<SubTexture name="bzbf parry0005" x="2171" y="1278" width="354" height="426" frameX="-2" frameY="0" frameWidth="404" frameHeight="426"/>
+	<SubTexture name="bzbf retry select0000" x="2525" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0001" x="2874" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0002" x="3223" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0003" x="3572" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0004" x="3921" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0005" x="4270" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0006" x="4619" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0007" x="4968" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0008" x="5317" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0009" x="5666" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0010" x="6015" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0011" x="6364" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0012" x="6713" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0013" x="7062" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0014" x="7411" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0015" x="7760" y="1278" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0016" x="0" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0017" x="349" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0018" x="698" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0019" x="1047" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0020" x="1396" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0021" x="1745" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0022" x="2094" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0023" x="2443" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0024" x="2792" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0025" x="3141" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0026" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0027" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0028" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0029" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0030" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0031" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0032" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0033" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf retry select0034" x="3490" y="1711" width="349" height="417"/>
+	<SubTexture name="bzbf right0000" x="3839" y="1711" width="382" height="408" frameX="-2" frameY="0" frameWidth="384" frameHeight="408"/>
+	<SubTexture name="bzbf right0001" x="3839" y="1711" width="382" height="408" frameX="-2" frameY="0" frameWidth="384" frameHeight="408"/>
+	<SubTexture name="bzbf right0002" x="4221" y="1711" width="369" height="406" frameX="0" frameY="-2" frameWidth="384" frameHeight="408"/>
+	<SubTexture name="bzbf right0003" x="4221" y="1711" width="369" height="406" frameX="0" frameY="-2" frameWidth="384" frameHeight="408"/>
+	<SubTexture name="bzbf up0000" x="4590" y="1711" width="343" height="437" frameX="-4" frameY="0" frameWidth="352" frameHeight="437"/>
+	<SubTexture name="bzbf up0001" x="4590" y="1711" width="343" height="437" frameX="-4" frameY="0" frameWidth="352" frameHeight="437"/>
+	<SubTexture name="bzbf up0002" x="4933" y="1711" width="352" height="430" frameX="0" frameY="-5" frameWidth="352" frameHeight="437"/>
+	<SubTexture name="bzbf up0003" x="4933" y="1711" width="352" height="430" frameX="0" frameY="-5" frameWidth="352" frameHeight="437"/>
+</TextureAtlas>

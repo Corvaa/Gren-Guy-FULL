@@ -1,99 +1,99 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "phone guy idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "phone guy idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				72,
 				7
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "phone guy left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "phone guy left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				7,
 				-11
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "phone guy down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "phone guy down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-18,
 				27
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "phone guy up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "phone guy up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-66,
 				8
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "phone guy right",
-			"indices": []
+			"indices": [],
+			"name": "phone guy right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-4,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "light",
-			"fps": 24,
-			"name": "phone guy light",
-			"indices": []
+			"indices": [],
+			"name": "phone guy light"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-4,
 				0
 			],
-			"anim": "light loop",
+			"loop": false,
 			"fps": 24,
-			"name": "phone guy light loop",
-			"indices": []
+			"anim": "light loop",
+			"indices": [],
+			"name": "phone guy light loop"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				33,
 				75
 			],
-			"anim": "light on",
+			"loop": false,
 			"fps": 24,
-			"name": "phone guy sketch",
-			"indices": []
+			"anim": "light on",
+			"indices": [],
+			"name": "phone guy sketch"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/Interview/phone_dued",
 	"position": [
-		0,
+		100,
 		0
 	],
 	"healthicon": "dad",
