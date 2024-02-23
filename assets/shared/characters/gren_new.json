@@ -1,63 +1,64 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				336,
 				383
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "gren idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "gren idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				372,
 				458
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "gren up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "gren up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				286,
 				322
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "gren right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gren right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				454,
 				368
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "gren left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gren left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				408,
 				263
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "gren down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gren down"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": true,
-	"image": "characters/gren_new",
+	"image": "characters/Gren/gren_new",
 	"position": [
 		300,
 		630
@@ -74,5 +75,6 @@
 		-300
 	],
 	"sing_duration": 4,
-	"scale": 0.7
+	"scale": 0.7,
+	"_editor_isPlayer": false
 }
