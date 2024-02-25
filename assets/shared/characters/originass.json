@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				300,
 				340
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "gren idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "gren idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				319,
 				420
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "gren up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "gren up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				214,
 				306
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "gren right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gren right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				484,
 				318
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "gren left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gren left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				318,
 				321
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "gren down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gren down"
 		}
 	],
 	"vocals_file": "",
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/Origins/origins",
 	"position": [
 		300,
