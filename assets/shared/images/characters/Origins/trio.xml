@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trio.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trio0000" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0001" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0002" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0003" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0004" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0005" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0006" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0007" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0008" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0009" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0010" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0011" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0012" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0013" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0014" x="498" y="0" width="498" height="431"/>
+	<SubTexture name="trio0015" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0016" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0017" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0018" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0019" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0020" x="0" y="0" width="498" height="431"/>
+	<SubTexture name="trio0021" x="0" y="431" width="498" height="431"/>
+	<SubTexture name="trio0022" x="0" y="431" width="498" height="431"/>
+	<SubTexture name="trio0023" x="0" y="431" width="498" height="431"/>
+	<SubTexture name="trio0024" x="498" y="431" width="498" height="431"/>
+	<SubTexture name="trio0025" x="498" y="431" width="498" height="431"/>
+	<SubTexture name="trio0026" x="498" y="431" width="498" height="431"/>
+	<SubTexture name="trio0027" x="498" y="431" width="498" height="431"/>
+	<SubTexture name="trio0028" x="498" y="431" width="498" height="431"/>
+	<SubTexture name="trio0029" x="498" y="431" width="498" height="431"/>
+</TextureAtlas>

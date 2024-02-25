@@ -1,50 +1,51 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				-30
+				-27
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "danceRight",
-			"fps": 24,
-			"name": "Right Bop",
-			"indices": []
+			"indices": [],
+			"name": "Right Bop"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				-30
+				-27
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "danceLeft",
-			"fps": 24,
-			"name": "Left Bop",
-			"indices": []
+			"indices": [],
+			"name": "Left Bop"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				-7
+				-6
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "cheer",
-			"fps": 24,
-			"name": "Cheer",
-			"indices": []
+			"indices": [],
+			"name": "Cheer"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				-30
+				1,
+				-23
 			],
-			"anim": "sad",
+			"loop": false,
 			"fps": 24,
-			"name": "Boo",
-			"indices": []
+			"anim": "sad",
+			"indices": [],
+			"name": "Boo"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/ourplegf",
 	"position": [
@@ -63,5 +64,6 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 0.9
+	"scale": 0.9,
+	"_editor_isPlayer": false
 }

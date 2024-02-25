@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				340
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gren idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				319,
+				420
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gren up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				306
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gren right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				484,
+				318
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gren left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				318,
+				321
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gren down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Origins/origins",
+	"position": [
+		300,
+		630
+	],
+	"healthicon": "origin",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		160,
+		0
+	],
+	"camera_position": [
+		-250,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
