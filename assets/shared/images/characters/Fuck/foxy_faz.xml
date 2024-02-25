@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="foxy_faz.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="foxy death0000" x="0" y="0" width="857" height="860" frameX="0" frameY="-8" frameWidth="857" frameHeight="868"/>
+	<SubTexture name="foxy death0001" x="0" y="0" width="857" height="860" frameX="0" frameY="-8" frameWidth="857" frameHeight="868"/>
+	<SubTexture name="foxy death0002" x="857" y="0" width="857" height="860" frameX="0" frameY="0" frameWidth="857" frameHeight="868"/>
+	<SubTexture name="foxy death0003" x="857" y="0" width="857" height="860" frameX="0" frameY="0" frameWidth="857" frameHeight="868"/>
+	<SubTexture name="foxy down0000" x="1714" y="0" width="810" height="713"/>
+	<SubTexture name="foxy idle0000" x="2524" y="0" width="878" height="729"/>
+	<SubTexture name="foxy left0000" x="3402" y="0" width="671" height="756"/>
+	<SubTexture name="foxy right0000" x="0" y="860" width="840" height="814"/>
+	<SubTexture name="foxy up0000" x="840" y="860" width="832" height="977"/>
+</TextureAtlas>

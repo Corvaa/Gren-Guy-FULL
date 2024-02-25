@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cindy_faz.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cindy down0000" x="0" y="0" width="638" height="734"/>
+	<SubTexture name="cindy idle0000" x="638" y="0" width="606" height="890"/>
+	<SubTexture name="cindy left0000" x="1244" y="0" width="811" height="812"/>
+	<SubTexture name="cindy right0000" x="2055" y="0" width="603" height="884"/>
+	<SubTexture name="cindy up0000" x="2658" y="0" width="994" height="986"/>
+</TextureAtlas>
