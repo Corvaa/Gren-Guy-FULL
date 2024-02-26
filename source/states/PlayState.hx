@@ -385,6 +385,7 @@ class PlayState extends MusicBeatState
 			case 'gren': new states.stages.Gren();
 			case 'dawko': new states.stages.Dawko();
 			case 'rubber': new states.stages.Rubber();
+			case 'treasure':new states.stages.Treasure();
 			case 'origins': new states.stages.Origins();
 		}
 
