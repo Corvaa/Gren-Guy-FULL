@@ -4,19 +4,22 @@ import backend.BaseStage;
 
 class Gren extends BaseStage
 {
-	// If you're moving your stage from PlayState to a stage file,
-	// you might have to rename some variables if they're missing, for example: camZooming -> game.camZooming
+	public var Gren1:FlxSprite;
+	public var Gren2:FlxSprite;
 
 	override function create()
 	{
-		// Spawn your stage sprites here.
-		// Characters are not ready yet on this function, so you can't add things above them yet.
-		// Use createPost() if that's what you want to do.
+		add(Gren1 = new FlxSprite(-300, -100, Paths.image("stages/gren/Gren1")));
+		Gren1.scale.set(1.15,1.15);
+		Gren1.antialiasing = false;
 	}
 	
 	override function createPost()
 	{
-		// Use this function to layer things above characters!
+		add(Gren2 = new FlxSprite(-300, -100, Paths.image("stages/gren/Gren2")));
+		Gren2.scale.set(1.2,1.2);
+		Gren2.antialiasing = false;
+		Gren2.scrollFactor.set(0.9,0.9);
 	}
 
 	function onSongStart()
